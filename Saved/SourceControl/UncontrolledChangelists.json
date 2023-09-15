@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Textures/sadface.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Enemy.uasset",
+				"C:/Users/shrey/Classes/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Enemy.uasset"
+			]
+		}
+	]
+}
